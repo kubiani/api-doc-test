@@ -9,8 +9,6 @@ info:
   license:
     name: Apache 2.0
     url: 'http://www.apache.org/licenses/LICENSE-2.0.html'
-  x-logo:
-    url: 'https://apis.guru/openapi-template/logo.png'
   description: |
     This is an **example** API to demonstrate features of OpenAPI specification
     # Introduction
